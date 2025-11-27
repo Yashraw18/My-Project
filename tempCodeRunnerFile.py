@@ -1,0 +1,1 @@
+cap = cv2.VideoCapture('birds1.mp4')
